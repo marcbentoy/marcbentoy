@@ -1,9 +1,3 @@
 # Marc Bentoy
 
-My personal website where I place most of my personal works and writing that I want to share my thoughts.
-
-
-> [!INFO]
-> This is made out of the idea shared by [Ham Vocke](https://hamvocke.com/blog/under-engineering/#user-content-fn-1) the concept of Under-engineering.
-
-
+A graduate of Computer Engineer and working as an Associate Backend Engineer (Java) at Benifex. Interested in systems design, web development, optimization methods, machine learning, distributed systems, minimal UI designs, and writing stuff – well, mostly writing code and sometimes blog articles 📝.
