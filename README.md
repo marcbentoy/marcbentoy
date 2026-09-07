@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I code while living 😎
+Communicating with computers and the people building those writing those communications 😎
