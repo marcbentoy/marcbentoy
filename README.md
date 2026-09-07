@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Communicating with computers and the people building those writing those communications 😎
+Communicating with computers and the people writing those communications 😎
